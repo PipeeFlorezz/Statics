@@ -1,0 +1,1 @@
+console.log('Archivos estaticos en Git');
